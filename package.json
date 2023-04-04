@@ -4,19 +4,19 @@
     "description": "## Table of Contents",
     "main": "server.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nrmoser50/NoSQL-social-network"
+        "type": "git",
+        "url": "git+https://github.com/nrmoser50/NoSQL-social-network"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "homepage": "https://github.com/nrmoser50/NoSQL-social-network",
     "dependencies": {
-      "express": "^4.17.3",
-      "mongoose": "^6.2.9"
+        "express": "^4.17.3",
+        "mongoose": "^6.9.2"
     }
 }
